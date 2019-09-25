@@ -1,5 +1,4 @@
 .container { 
-<<<<<<< HEAD
 width: 800px;
 margin:0 auto;
 box-shadow: 10px 10px;
@@ -27,30 +26,8 @@ h3{
     text-align: center;
     padding-bottom: 10px;
 
-=======
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 li {
@@ -69,5 +46,4 @@ footer {
 
 body {
 font-family: 'Happy Monkey';
->>>>>>> f2804db0ee488c19cca929409a0ecd26424cfbac
 }
