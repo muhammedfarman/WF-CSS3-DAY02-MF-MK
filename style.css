@@ -1,3 +1,43 @@
 .container { 
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.rating {
+    color: #F4B400;
+    size: 25px;
+}
+
+footer {
+    align-content: center;
+}
+
+body {
+font-family: 'Happy Monkey';
+}
